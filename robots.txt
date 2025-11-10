@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://moka-rust.vercel.app/sitemap.xml
